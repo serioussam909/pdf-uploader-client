@@ -1,0 +1,1 @@
+Change axios.defaults.baseURL in ./src/App.js to your own API URL.
